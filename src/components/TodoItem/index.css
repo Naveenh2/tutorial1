@@ -1,0 +1,14 @@
+/* Write your CSS here */
+list {
+  display: flex;
+  align-items: center;
+}
+.button {
+  border-color: orange;
+  color: orange;
+  height: 30px;
+  cursor: pointer;
+  outline: none;
+  width: 100px;
+  border-radius: 10px;
+}
